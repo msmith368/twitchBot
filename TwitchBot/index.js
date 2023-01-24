@@ -40,5 +40,3 @@ client.on('message', (channel, user, message, self) => {
         client.say(channel, `It is currently ` + localTime + ` EST`);
     }
 });
-
-/*password for twitch account: Zejnhkr5*/
